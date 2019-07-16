@@ -1,2 +1,7 @@
 # my-first-code
-using C programming
+//using C programming
+#include<stdio.h>
+void main()
+{
+printf("HELLO WORLD!!\n");
+}
